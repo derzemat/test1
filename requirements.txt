@@ -30,7 +30,6 @@ ffmpeg-python==0.2.0
 django_bootstrap_breadcrumbs
 django_extensions
 django-debug-toolbar==3.2
-sentry_sdk
 django_db_logger
 ffprobe==0.5
 ffprobe-python==1.0.3
